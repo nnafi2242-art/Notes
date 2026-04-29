@@ -1,0 +1,6 @@
+{
+  "name": "DroidNotes - Secure Personal Vault",
+  "description": "A modern, secure Android-style notes app with AES-256 encryption, private vault, and offline-first persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
